@@ -148,7 +148,7 @@ plugin(UnpluginTypia({ /* your options */}));
 ```
 
 ```toml
-# bun.toml
+# bunfig.toml
 preload = "preload.ts"
 
 [test]
